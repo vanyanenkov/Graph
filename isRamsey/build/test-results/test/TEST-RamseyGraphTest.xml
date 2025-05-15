@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RamseyGraphTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2025-05-15T22:26:13.868Z" hostname="DESKTOP-L67HOPI" time="4.366">
+  <properties/>
+  <testcase name="GraphTest10()" classname="RamseyGraphTest" time="0.182"/>
+  <testcase name="GraphTest11()" classname="RamseyGraphTest" time="0.874"/>
+  <testcase name="GraphTest12()" classname="RamseyGraphTest" time="0.802"/>
+  <testcase name="GraphTest13()" classname="RamseyGraphTest" time="0.003"/>
+  <testcase name="GraphTest14()" classname="RamseyGraphTest" time="0.004"/>
+  <testcase name="GraphTest0()" classname="RamseyGraphTest" time="0.002"/>
+  <testcase name="GraphTest1()" classname="RamseyGraphTest" time="0.002"/>
+  <testcase name="GraphTest2()" classname="RamseyGraphTest" time="0.002"/>
+  <testcase name="GraphTest3()" classname="RamseyGraphTest" time="0.001"/>
+  <testcase name="GraphTest4()" classname="RamseyGraphTest" time="0.0"/>
+  <testcase name="GraphTest5()" classname="RamseyGraphTest" time="0.001"/>
+  <testcase name="GraphTest6()" classname="RamseyGraphTest" time="0.001"/>
+  <testcase name="GraphTest7()" classname="RamseyGraphTest" time="2.375"/>
+  <testcase name="GraphTest8()" classname="RamseyGraphTest" time="0.07"/>
+  <testcase name="GraphTest9()" classname="RamseyGraphTest" time="0.037"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
